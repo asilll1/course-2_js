@@ -1,6 +1,3 @@
-Here's a **README.md** file designed to be used on GitHub for both the **Beginner** and **Intermediate** JavaScript tasks, including brief descriptions and examples for each exercise. It is formatted to be clean, informative, and beginner-friendly.
-
----
 
 # JavaScript Exercises
 
